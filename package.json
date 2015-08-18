@@ -1,0 +1,16 @@
+{
+  "name": "project-buendia",
+  "description": "Open-source medical records project for humanitarian relief missions",
+  "version": "0.1.0",
+  "homepage": "http://projectbuendia.org/",
+  "repository": "https://github.com/projectbuendia/projectbuendia.github.io",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^2.0.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-watch": "^4.3.4",
+    "gulp-uglify": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-minify-css": "^1.2.0"
+  }
+}
